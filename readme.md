@@ -1,2 +1,2 @@
-# [Форма с валидацией](validation/index.html)
-v0.0.3
+# [Форма с валидацией](https://irina-sass.github.io/validation/)
+v0.0.4
