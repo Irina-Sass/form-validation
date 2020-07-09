@@ -1,2 +1,13 @@
-# [Форма с валидацией](https://irina-sass.github.io/validation/)
-v0.0.4
+# [Form-validation](https://irina-sass.github.io/form-validation/validation)
+
+## Версия проекта
+
+v0.0.5
+
+## Описание проекта
+
+Форма с валидацией
+
+## Стек используемых технологий
+
+HTML5, CSS3
