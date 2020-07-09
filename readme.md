@@ -1,6 +1,4 @@
-# Form-validation
-
-(https://irina-sass.github.io/form-validation/)
+# [Form-validation](https://irina-sass.github.io/form-validation/validation)
 
 ## Версия проекта
 
